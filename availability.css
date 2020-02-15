@@ -1,0 +1,14 @@
+#center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    background-color: aqua;
+  }
+
+  .tileMe li {
+    display: inline;
+    float: left;
+    margin-top: 50px;
+    margin-bottom: 5px;
+}
